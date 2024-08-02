@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# BEST_FOOD_APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project-Image
 
-## Available Scripts
+## 기간 : 2024-08-02 ~ 미정
 
-In the project directory, you can run:
+## Project 계획서
 
-### `npm start`
+- 8.2
+- 계획서 작성 
+- 프로젝트 목적 작성
+- 프로젝트 파일 기본 세팅
+- 라이브러리 선정 
+- API 데이터 확인 
+- 참고 레퍼런스 서치
+- 앞으로의 진행 방향 수립
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Project-Stack
+- js 
+- react
+- node js
+- git
+- github
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Project목적
+부산 지역에만 있는 맛집정보를 제공
+정보(음식점 이름, 메뉴, 메뉴소개, 음식점 주소, 등) 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Project기획
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Project소개
+바쁜 현대인들을 위해 발로 뛸 필요 없이 간단 한 웹&앱을 통해 정보를 찾아봄으로써 불필요한 시간 낭비를 줄여주는 효과를 볼수 있음 API를통해 전달 받은 정보를 웹&앱에 제공, 반응형을 줌으로써 모바일 및 각 기기에 맞는 화면을 제공, "구현 가능 여부를 확안후 검색기능을 추가할 예정 및 구를 기준으로 정보를 나눔으로써 집근처의 정보를 쉽게 찾을 수있음 구현 가능한지 테스트 후 수정함"
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Project URL
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Project 진행중 느낀점
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 라이브러리
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Project API
+---
+https://www.data.go.kr/data/15063472/openapi.do
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Project 레퍼런스
+---
