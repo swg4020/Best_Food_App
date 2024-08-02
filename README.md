@@ -46,6 +46,34 @@
 
 ### 라이브러리
 ---
+- [] npm install axios
+- API 데이터를 불러오는데 사용
+
+- [] npm i react-router-dom 
+- 라우터 설정에 사용
+
+- [] npm i styled-components
+- css 적용에 사용
+
+- [] npm i styled-reset
+- 글로벌스타일 작성시 사용
+
+- [] npm i react-helmet-async
+- 페이지 마다 이름 작성시 사용
+
+- [] npm i react-hook-form
+- 검색 기능을 위해 사용
+
+- [] npm i @tanstack/react-query
+- useState 등 활용하기 위해 사용
+
+- [] npm i gh-pages -D
+- 깃허브 배포시 필요
+
+- 프로젝트중 추가로 필요한 라이브러리 설치시 작성함
+
+
+
 
 ### Project API
 ---
